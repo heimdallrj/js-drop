@@ -1,0 +1,4 @@
+  #js-drop {border: 2px dashed #ccc; text-align: center; padding: 50px;};
+  .jsd-dragenter {background-color: green;}
+  .jsd-dragover {background-color: red;}
+  .jsd-drop {background-color: blue;}
